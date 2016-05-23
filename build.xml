@@ -57,7 +57,7 @@
 </fileset>
 <!--Give the lib folder path-->
 <!--Give the classes folder path-->
-<classes dir="C:\Users\miracle\.jenkins\workspace\CI_CD_Bluemix\src\com\ibm\cloudoe\samples"/>
+
 </war>
 </target>	
 	
